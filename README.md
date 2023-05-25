@@ -25,6 +25,12 @@ Make sure that you have followed the installation instructions. You should have 
 
 ## Development
 
+Install dependencies:
+
+```
+npm install
+```
+
 Run the metro server:
 
 ```
